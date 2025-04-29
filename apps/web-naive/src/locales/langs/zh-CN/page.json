@@ -10,5 +10,10 @@
     "title": "概览",
     "analytics": "分析页",
     "workspace": "工作台"
+  },
+  "authorization": {
+    "title": "权限管理",
+    "user-management": "用户管理",
+    "role-management": "角色管理"
   }
 }

@@ -10,5 +10,10 @@
     "title": "Dashboard",
     "analytics": "Analytics",
     "workspace": "Workspace"
+  },
+  "authorization": {
+    "title": "anthorization",
+    "user-management": "user-management",
+    "role-management": "role-management"
   }
 }
